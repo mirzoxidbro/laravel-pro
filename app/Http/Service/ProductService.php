@@ -5,8 +5,9 @@ use App\Models\Product;
 
 class ProductService extends AbstractService
 {
-    protected $model = Product::class;
-   
+    protected $model = Product::class; 
 }
+
+
 
 
